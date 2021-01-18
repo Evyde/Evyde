@@ -19,7 +19,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
-          plugin_languages_ignored: "HTML" # List of comma separated languages to ignore
+          plugin_languages_ignored: "HTML PHP CSS" # List of comma separated languages to ignore
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
