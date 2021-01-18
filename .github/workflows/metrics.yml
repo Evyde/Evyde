@@ -16,3 +16,13 @@ jobs:
           token: ${{ secrets.Profile }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_ignored: "HTML" # List of comma separated languages to ignore
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          config_timezone: Asia/Shanghai
+          plugin_stars: yes
+          plugin_stars_limit: 4
