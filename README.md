@@ -1,4 +1,10 @@
-### Hi ForeverOpp 👋
+### Hi, I'm ForeverOpp ! 👋
+
+## Stats
+![ForeverOpp's github stats](https://github-readme-stats.vercel.app/api?username=ForeverOpp)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForeverOpp&langs_count=8)
 
 <!--
 **ForeverOpp/ForeverOpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
