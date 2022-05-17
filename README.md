@@ -1,10 +1,10 @@
-### Hi, I'm ForeverOpp ! 👋
+### Hi, I'm Evyde HF ! 👋
 
 ## Stats
-![ForeverOpp's github stats](https://github-readme-stats.vercel.app/api?username=ForeverOpp)
+![Evyde's github stats](https://github-readme-stats.vercel.app/api?username=Evyde)
 
 <!--
-**ForeverOpp/ForeverOpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Evyde/Evyde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://github.com/ForeverOpp/ForeverOpp/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Evyde/Evyde/blob/main/github-metrics.svg)
