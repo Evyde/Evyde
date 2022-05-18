@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on HAMNet.
 - 🤔 I’m looking for help with X, nobody needs my help :(
 - 💬 Ask me about everything!
-- 📫 How to reach me: [Telegram](t.me/Evyde)
+- 📫 How to reach me: [Telegram](https://t.me/Evyde)
 - ⚡ Fun fact: I love do everything by myself!
 
 ## All Stats
