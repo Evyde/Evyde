@@ -1,20 +1,20 @@
 ### Hi, I'm Evyde HF ! 👋
 
-## Stats
+- 🔭 I’m currently working on Learning!
+- 🌱 I’m currently learning Java and Verilog!
+- 👯 I’m looking to collaborate on HAMNet.
+- 🤔 I’m looking for help with X, nobody needs my help :(
+- 💬 Ask me about everything!
+- 📫 How to reach me: [Telegram](t.me/Evyde)
+- ⚡ Fun fact: I love do everything by myself!
+
+## All Stats
 ![Evyde's github stats](https://github-readme-stats.vercel.app/api?username=Evyde)
 
-<!--
-**Evyde/Evyde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Wakatime Stats
 
-Here are some ideas to get you started:
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=merlynallen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other Stats
+
 ![Metrics](https://github.com/Evyde/Evyde/blob/main/github-metrics.svg)
